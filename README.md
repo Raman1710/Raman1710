@@ -1,4 +1,4 @@
-[![MasterHead](https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif)]
+![MasterHead](https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif)
 <h1 align="center">Hi 👋, I'm Ramandeep Singh Saini</h1>
 <h3 align="center">A passionate frontend developer from Punjab,India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
