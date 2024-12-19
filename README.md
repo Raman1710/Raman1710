@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raman1710&label=Profile%20views&color=0e75b6&style=flat" alt="raman1710" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Backend Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
